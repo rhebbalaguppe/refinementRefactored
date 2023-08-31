@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": "utils"
+		},
+		{
+			"path": "tnse_hypothesis"
+		},
+		{
+			"path": "solvers"
+		},
+		{
+			"path": "scripts"
+		},
+		{
+			"path": "models"
+		},
+		{
+			"path": "experiments"
+		},
+		{
+			"path": "datasets"
+		},
+		{
+			"path": "content"
+		},
+		{
+			"path": "calibration_library"
+		},
+		{
+			"path": "AUCM_exp"
+		}
+	]
+}
